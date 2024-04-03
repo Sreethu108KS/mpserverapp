@@ -1,0 +1,50 @@
+{
+  "allVideos": [
+    {
+      "id": "5",
+      "caption": "dd",
+      "url": "https://in.images.search.yahoo.com/search/images?p=image&fr=mcafee&type=E210IN826G0&imgurl=http%3A%2F%2Fthewowstyle.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fautunm-desktop-natural-hd-wallpapers.jpg#id=2&iurl=http%3A%2F%2Fthewowstyle.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fautunm-desktop-natural-hd-wallpapers.jpg&action=click",
+      "link": "https://www.youtube.com/embed/SqcY0GlETPk"
+    },
+    {
+      "id": "2",
+      "caption": "bb",
+      "url": "https://in.images.search.yahoo.com/search/images?p=image&fr=mcafee&type=E210IN826G0&imgurl=http%3A%2F%2Fthewowstyle.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fautunm-desktop-natural-hd-wallpapers.jpg#id=2&iurl=http%3A%2F%2Fthewowstyle.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fautunm-desktop-natural-hd-wallpapers.jpg&action=click",
+      "link": "https://www.youtube.com/embed/W6NZfCO5SIk"
+    }
+  ],
+  "history": [
+    {
+      "caption": "cc",
+      "link": "https://www.youtube.com/embed/s2skans2dP4",
+      "timeStamp": "03/27/2024, 07:48:52 AM",
+      "id": 1
+    },
+    {
+      "caption": "bb",
+      "link": "https://www.youtube.com/embed/SqcY0GlETPk",
+      "timeStamp": "03/27/2024, 07:49:05 AM",
+      "id": 2
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "react",
+      "allVideos": [
+        {
+          "id": "4",
+          "caption": "cc",
+          "url": "https://tse2.mm.bing.net/th?id=OIP.HLuY60jzx5puuKjbqmWRRwHaEK&pid=Api&P=0&h=180",
+          "link": "https://www.youtube.com/embed/SqcY0GlETPk"
+        },
+        {
+          "id": "2",
+          "caption": "bb",
+          "url": "https://in.images.search.yahoo.com/search/images?p=image&fr=mcafee&type=E210IN826G0&imgurl=http%3A%2F%2Fthewowstyle.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fautunm-desktop-natural-hd-wallpapers.jpg#id=2&iurl=http%3A%2F%2Fthewowstyle.com%2Fwp-content%2Fuploads%2F2015%2F07%2Fautunm-desktop-natural-hd-wallpapers.jpg&action=click",
+          "link": "https://www.youtube.com/embed/W6NZfCO5SIk"
+        }
+      ]
+    }
+  ]
+}
